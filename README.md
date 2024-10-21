@@ -1,12 +1,11 @@
 # AI case study on Nanonets
 
 ## Overview and Origin
-
 Name of company
 * Nanonets
 
 When was the company incorporated?
-* 2017
+* 2016
   
 Who are the founders of the company?
 * Nanonets was cofounded by Sarjoun Skaff and Shubham Bhardwaj
@@ -52,3 +51,7 @@ How is the company funded? How much funding have they received?
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## References
+* https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/
+* https://www.businessinsider.in/investment/news/nanonets-an-ai-powered-workflow-automation-startup-just-raised-29-million-with-this-23-slide-pitch-deck/slidelist/108443660.cms
