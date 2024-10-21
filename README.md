@@ -2,15 +2,20 @@
 
 ## Overview and Origin
 
-* Name of company
+Name of company
+* Nanonets
 
-* When was the company incorporated?
+When was the company incorporated?
+* 2017
+  
+Who are the founders of the company?
+* Nanonets was cofounded by Sarjoun Skaff and Shubham Bhardwaj
 
-* Who are the founders of the company?
+How did the idea for the company (or project) come about?
+* They recognized the need for AI-augmented processing of documents, at a time when (1) more documents were being generated than ever before and (2) the norm is to rely on manual data entry, which is slow and error-prone
 
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+How is the company funded? How much funding have they received?
+* In 2022 they raised $10 million in series A funding. In 2024 they raised another $29 million in series B funding, bringing the current total to $42 million.
 
 ## Business Activities
 
