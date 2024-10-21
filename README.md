@@ -60,3 +60,6 @@ Which technologies are they currently using, and how are they implementing them?
 ## References
 * https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/
 * https://www.businessinsider.in/investment/news/nanonets-an-ai-powered-workflow-automation-startup-just-raised-29-million-with-this-23-slide-pitch-deck/slidelist/108443660.cms
+* https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/
+* https://nanonets.com/blog/what-is-retrieval-augmented-generation-rag/
+
