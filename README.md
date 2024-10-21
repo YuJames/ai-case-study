@@ -11,20 +11,25 @@ Who are the founders of the company?
 * Nanonets was cofounded by Sarjoun Skaff and Shubham Bhardwaj
 
 How did the idea for the company (or project) come about?
-* They recognized the need for AI-augmented processing of documents, at a time when (1) more documents were being generated than ever before and (2) the norm is to rely on manual data entry, which is slow and error-prone
+* They recognized an opportunity to help companies more efficiently process their data with AI.
 
 How is the company funded? How much funding have they received?
 * In 2022 they raised $10 million in series A funding. In 2024 they raised another $29 million in series B funding, bringing the current total to $42 million.
 
 ## Business Activities
+What specific problem is the company or project trying to solve?
+* The norm of relying on manual data entry is slow and error-prone.
 
-* What specific problem is the company or project trying to solve?
+Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Any customer that has documents that are repetitively processed manually.
+* From [forbes](https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/):
+> Largely, those customers have been mid-sized businesses, but Nanonets is increasingly attracting larger enterprises too.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* They have a comprehensive platform that (1) gives easy access to both out-the-box and custom models and (2) makes it easy to build processing pipelines.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* In addition to their blog, I've communicated with Nanonets representatives via email and phone. They leverage a mixture of proprietary and open-source technology. Their backend is mostly python, and they leverage Tensorflow to great extent. Some of their more advanced offerings are powered by generative AI (LLMs) to implement zero-shot learning (ZLS).
 
 ## Landscape
 
