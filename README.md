@@ -8,13 +8,13 @@ When was the company incorporated?
 * 2016
   
 Who are the founders of the company?
-* Nanonets was cofounded by Sarjoun Skaff and Shubham Bhardwaj
+* Nanonets was cofounded by Sarjoun Skaff and Shubham Bhardwaj.
 
 How did the idea for the company (or project) come about?
 * They recognized an opportunity to help companies more efficiently process their data with AI.
 
 How is the company funded? How much funding have they received?
-* In 2022 they raised $10 million in series A funding. In 2024 they raised another $29 million in series B funding, bringing the current total to $42 million.
+* In 2022 they raised $10 million in series A funding. In 2024 they raised another $29 million in series B funding, bringing the current total to **$42 million**.
 
 ## Business Activities
 What specific problem is the company or project trying to solve?
@@ -32,30 +32,27 @@ Which technologies are they currently using, and how are they implementing them?
 * In addition to their blog, I've communicated with Nanonets representatives via email and phone. They leverage a mixture of proprietary and open-source technology. Their backend is mostly python, and they leverage Tensorflow to great extent. Some of their more advanced offerings are powered by generative AI (LLMs) to implement zero-shot learning (ZLS).
 
 ## Landscape
+What field is the company in?
 
-* What field is the company in?
+What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+What are the other major companies in this field?
 
 ## Results
+What has been the business impact of this company so far?
 
-* What has been the business impact of this company so far?
+What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
+How is your company performing relative to competitors in the same field?
 
 ## Recommendations
+If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Why do you think that offering this product or service would benefit the company?
 
-* Why do you think that offering this product or service would benefit the company?
+What technologies would this additional product or service utilize?
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+Why are these technologies appropriate for your solution?
 
 ## References
 * https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/
