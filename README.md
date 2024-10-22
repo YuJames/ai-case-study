@@ -14,7 +14,7 @@ How did the idea for the company (or project) come about?
 * They recognized an opportunity to help companies more efficiently process their data with AI.
 
 How is the company funded? How much funding have they received?
-* In 2022 they raised $10 million in series A funding. In 2024 they raised another $29 million in series B funding, bringing the current total to **$42 million**.
+* In 2022 they raised $10 million in series A funding. In 2024 they raised another $29 million in series B funding, bringing the current total to ***$42 million***.
 
 ## Business Activities
 What specific problem is the company or project trying to solve?
@@ -50,7 +50,7 @@ How is your company performing relative to competitors in the same field?
 
 ## Recommendations
 If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* They could shift more into the workflow and DAG (directed acyclic graph) direction, from simple (e.g. (n8n)[https://n8n.io/]) to complex (e.g. (airflow)[https://airflow.apache.org/])
+* They could shift more into the workflow and DAG (directed acyclic graph) direction, from simple (e.g. n8n) to complex (e.g. airflow)
 
 Why do you think that offering this product or service would benefit the company?
 * It could bring in a new audience, while still leveraging a significant amount of current technology.
@@ -68,4 +68,5 @@ Why are these technologies appropriate for your solution?
 * https://nanonets.com/blog/what-is-retrieval-augmented-generation-rag/
 * https://nanonets.com/
 * https://www.toolify.ai/ai-news/create-websites-in-minutes-with-ai-art-figma-and-chatgpt-2766654
-
+* https://n8n.io/
+* https://airflow.apache.org/
