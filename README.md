@@ -33,10 +33,13 @@ Which technologies are they currently using, and how are they implementing them?
 
 ## Landscape
 What field is the company in?
+* They operate in the AI space in general, but have out-the-box solutions for a variety of industries including finance, supply chain, healthcare, legal, and real estate.
 
 What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* Document parsing services have a long history, especially with regards to accounting. However, since the advent of generative AI and LLMs their underlying technology has improved, leading to more advanced capabilities.
 
 What are the other major companies in this field?
+* One competitor was Impera, before they were acquired by Figma. Adobe, also the parent company of Figma, has some OCR capabilities. A variety of smaller OCR microservice offerings can be found with a simple online search, one of which being [onlineocr.net](https://www.onlineocr.net/)
 
 ## Results
 What has been the business impact of this company so far?
@@ -59,4 +62,6 @@ Why are these technologies appropriate for your solution?
 * https://www.businessinsider.in/investment/news/nanonets-an-ai-powered-workflow-automation-startup-just-raised-29-million-with-this-23-slide-pitch-deck/slidelist/108443660.cms
 * https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/
 * https://nanonets.com/blog/what-is-retrieval-augmented-generation-rag/
+* https://nanonets.com/
+* https://www.toolify.ai/ai-news/create-websites-in-minutes-with-ai-art-figma-and-chatgpt-2766654
 
