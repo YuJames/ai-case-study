@@ -50,12 +50,16 @@ How is your company performing relative to competitors in the same field?
 
 ## Recommendations
 If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* They could shift more into the workflow and DAG (directed acyclic graph) direction, from simple (e.g. (n8n)[https://n8n.io/]) to complex (e.g. (airflow)[https://airflow.apache.org/])
 
 Why do you think that offering this product or service would benefit the company?
+* It could bring in a new audience, while still leveraging a significant amount of current technology.
 
 What technologies would this additional product or service utilize?
+* Additional integrations with data sources and destinations would be needed to gain market share, including ones with standalone databases. With this shift, considerations for increased bandwidth and throughput would be relevant too.
 
 Why are these technologies appropriate for your solution?
+* A significant portion of data pipelines can be represented by ETLs (extract, transform, load). Nanonets would have to build out significantly more on that front, rather than focus on their traditional no-code solution.
 
 ## References
 * https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/
